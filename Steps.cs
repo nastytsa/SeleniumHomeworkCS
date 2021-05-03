@@ -23,7 +23,6 @@ namespace SeleniumHomework
             mainPage = new MainPage(driver);
             searchPage = new SearchPage(driver);
             careersPage = new CareersPage(driver);
-            //driver.SwitchTo().Window(driver.WindowHandles.First());
         }
 
         [After]
