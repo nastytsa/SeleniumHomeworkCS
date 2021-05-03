@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.SeleniumHomework.iml
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\study\testing\selenium\SeleniumHomework\.idea\.idea.SeleniumHomework\.idea/dataSources/
+/dataSources.local.xml
